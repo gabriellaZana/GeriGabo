@@ -14,3 +14,4 @@ def add(a,b):
 def shout():
     print("NOW I'M SHOUTING")
     print("valamiiiiii")
+    print("mi a szar????")
